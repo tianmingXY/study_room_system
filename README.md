@@ -61,35 +61,9 @@ banner.txt     springboot启动加载提示文件
 
 
 
-#### 软件架构
-软件架构说明
+## 项目运行部分截图
+![输入图片说明](%E9%A1%B9%E7%9B%AE%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE%E7%BA%BF%E4%B8%8A%E8%87%AA%E4%B9%A0%E5%AE%A4%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F-%E9%A6%96%E9%A1%B5.png)
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
